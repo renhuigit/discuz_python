@@ -1,0 +1,5 @@
+2018-05-23 20:05:09,062 - BasicTestCase - INFO - 你选择了 chrome 浏览器.
+2018-05-23 20:05:09,064 - BasicTestCase - INFO - 测试的URL是: http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 20:05:19,208 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 20:05:19,208 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 20:05:25,190 - BasicTestCase - INFO - 退出浏览器

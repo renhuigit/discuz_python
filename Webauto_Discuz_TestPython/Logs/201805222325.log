@@ -1,0 +1,21 @@
+2018-05-22 23:25:49,410 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 23:25:49,410 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 23:25:52,422 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.3087443037573434-1")>
+2018-05-22 23:25:52,511 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 23:25:52,527 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.3087443037573434-1")>
+2018-05-22 23:25:52,653 - seleniumutil - INFO - 在文本框输入admin
+2018-05-22 23:25:52,681 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.3087443037573434-2")>
+2018-05-22 23:25:52,715 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 23:25:52,727 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.3087443037573434-2")>
+2018-05-22 23:25:52,813 - seleniumutil - INFO - 在文本框输入password
+2018-05-22 23:25:52,837 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.3087443037573434-3")>
+2018-05-22 23:25:52,909 - seleniumutil - INFO - 成功点击元素
+2018-05-22 23:25:54,914 - seleniumutil - INFO - 通过xpath查找到一组元素
+2018-05-22 23:26:02,399 - seleniumutil - INFO - 通过xpath查找到一组元素
+2018-05-22 23:26:02,477 - seleniumutil - INFO - 通过xpath查找到一组元素
+2018-05-22 23:26:02,648 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.10171499060079725-21")>
+2018-05-22 23:26:03,984 - seleniumutil - INFO - 成功点击元素
+2018-05-22 23:26:04,056 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="5a89f0699d8edc938dda3b8740b943c2", element="0.10171499060079725-22")>
+2018-05-22 23:26:06,874 - seleniumutil - INFO - 成功点击元素
+2018-05-22 23:26:08,889 - seleniumutil - INFO - 通过xpath查找到一组元素
+2018-05-22 23:26:12,067 - BasicTestCase - INFO - 退出浏览器

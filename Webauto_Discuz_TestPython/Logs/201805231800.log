@@ -1,0 +1,28 @@
+2018-05-23 18:00:07,601 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 18:00:07,602 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 18:00:10,110 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-23 18:00:10,158 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 18:00:10,158 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-23 18:00:10,242 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 18:00:10,243 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-23 18:00:10,297 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 18:00:10,300 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-23 18:00:10,389 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 18:00:10,389 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button
+2018-05-23 18:00:10,476 - seleniumutil - INFO - 成功点击元素
+2018-05-23 18:00:14,477 - seleniumutil - INFO - 通过id查找元素： id=>extcreditmenu
+2018-05-23 18:00:18,057 - seleniumutil - INFO - 通过id查找元素： id=>scbar_txt
+2018-05-23 18:00:18,105 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 18:00:18,105 - seleniumutil - INFO - 通过id查找元素： id=>scbar_txt
+2018-05-23 18:00:18,229 - seleniumutil - INFO - 在文本框输入selenium+java
+2018-05-23 18:00:18,230 - seleniumutil - INFO - 通过id查找元素： id=>scbar_btn
+2018-05-23 18:00:18,349 - seleniumutil - INFO - 成功点击元素
+2018-05-23 18:00:20,556 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为搜索 - Discuz! Board - Powered by Discuz!
+2018-05-23 18:00:20,557 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//h3/a
+2018-05-23 18:00:20,667 - seleniumutil - INFO - 成功点击元素
+2018-05-23 18:00:22,450 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为selenium+java - 北京 - Discuz! Board - Powered by Discuz!
+2018-05-23 18:00:22,474 - seleniumutil - INFO - 通过Id查找到一组元素id=>thread_subject长度为：1
+2018-05-23 18:00:22,507 - seleniumutil - INFO - 找到了对应得文本，当前页面正确：【selenium+java】
+2018-05-23 18:00:24,508 - seleniumutil - INFO - 通过linktext查找元素： linktext=>退出
+2018-05-23 18:00:25,721 - seleniumutil - INFO - 成功点击元素
+2018-05-23 18:00:25,721 - BasicTestCase - INFO - 退出浏览器

@@ -1,0 +1,30 @@
+2018-05-23 13:29:42,603 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 13:29:42,604 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 13:29:45,238 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.41661673974504043-1")>
+2018-05-23 13:29:45,283 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 13:29:45,294 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.41661673974504043-1")>
+2018-05-23 13:29:45,406 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 13:29:45,432 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.41661673974504043-2")>
+2018-05-23 13:29:45,486 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 13:29:45,498 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.41661673974504043-2")>
+2018-05-23 13:29:45,591 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 13:29:45,620 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.41661673974504043-3")>
+2018-05-23 13:29:45,712 - seleniumutil - INFO - 成功点击元素
+2018-05-23 13:29:51,254 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.7512079678902606-1")>
+2018-05-23 13:29:53,358 - seleniumutil - INFO - 通过linktext查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.7512079678902606-2")>
+2018-05-23 13:29:54,841 - seleniumutil - INFO - 成功点击元素
+2018-05-23 13:29:54,871 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-1")>
+2018-05-23 13:29:55,927 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-2")>
+2018-05-23 13:29:55,984 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 13:29:56,010 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-2")>
+2018-05-23 13:29:56,247 - seleniumutil - INFO - 在文本框输入title:dhjfghj
+2018-05-23 13:29:57,270 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-3")>
+2018-05-23 13:29:57,317 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 13:29:57,330 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-3")>
+2018-05-23 13:29:57,507 - seleniumutil - INFO - 在文本框输入content:neirong
+2018-05-23 13:29:57,532 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.8971767769506127-4")>
+2018-05-23 13:30:00,627 - seleniumutil - INFO - 成功点击元素
+2018-05-23 13:30:02,652 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="e68bea05a5893aee88bba5387e926f02", element="0.5415486463448071-1")>
+2018-05-23 13:30:03,955 - seleniumutil - INFO - 成功点击元素
+2018-05-23 13:30:04,014 - seleniumutil - ERROR - 没有找到元素
+2018-05-23 13:30:07,117 - BasicTestCase - INFO - 退出浏览器

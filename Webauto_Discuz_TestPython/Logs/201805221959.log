@@ -1,0 +1,16 @@
+2018-05-22 19:59:50,291 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 19:59:50,291 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 19:59:52,907 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:59:52,993 - seleniumutil - INFO - 在文本框输入admin
+2018-05-22 19:59:53,046 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:59:53,140 - seleniumutil - INFO - 在文本框输入password
+2018-05-22 19:59:53,241 - seleniumutil - INFO - 成功点击元素
+2018-05-22 19:59:58,798 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:59:58,934 - seleniumutil - INFO - 在文本框输入selenium+java
+2018-05-22 19:59:59,039 - seleniumutil - INFO - 成功点击元素
+2018-05-22 20:00:01,276 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为搜索 - Discuz! Board - Powered by Discuz!
+2018-05-22 20:00:01,409 - seleniumutil - INFO - 成功点击元素
+2018-05-22 20:00:03,202 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为selenium+java - 北京 - Discuz! Board - Powered by Discuz!
+2018-05-22 20:00:03,247 - seleniumutil - ERROR - 当前页面是：【selenium+java】，期望页面是：【selenium+java】
+2018-05-22 20:00:06,515 - seleniumutil - INFO - 成功点击元素
+2018-05-22 20:00:09,624 - BasicTestCase - INFO - 退出浏览器

@@ -1,0 +1,14 @@
+2018-05-23 17:42:56,849 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 17:42:56,849 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 17:42:59,370 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="e414b94b432249b45870799e2417463a", element="0.374705814780083-1")>
+2018-05-23 17:42:59,407 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:42:59,414 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="e414b94b432249b45870799e2417463a", element="0.374705814780083-1")>
+2018-05-23 17:42:59,497 - seleniumutil - INFO - 在文本框输入test
+2018-05-23 17:42:59,522 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="e414b94b432249b45870799e2417463a", element="0.374705814780083-2")>
+2018-05-23 17:42:59,565 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:42:59,576 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="e414b94b432249b45870799e2417463a", element="0.374705814780083-2")>
+2018-05-23 17:42:59,642 - seleniumutil - INFO - 在文本框输入test
+2018-05-23 17:42:59,666 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button<selenium.webdriver.remote.webelement.WebElement (session="e414b94b432249b45870799e2417463a", element="0.374705814780083-3")>
+2018-05-23 17:42:59,766 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:43:03,788 - seleniumutil - ERROR - 没有找到元素
+2018-05-23 17:43:03,788 - BasicTestCase - INFO - 退出浏览器

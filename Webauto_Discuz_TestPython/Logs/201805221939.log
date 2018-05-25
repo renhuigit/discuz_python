@@ -1,0 +1,7 @@
+2018-05-22 19:39:42,378 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 19:39:42,378 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 19:39:49,874 - seleniumutil - INFO - 清除文本框内容
+2018-05-22 19:39:49,979 - seleniumutil - INFO - 在<selenium.webdriver.remote.webelement.WebElement (session="0170b11ffa317a110ad1c2dcdb90ab11", element="0.13689252255379758-1")>文本框输入admin
+2018-05-22 19:39:50,038 - seleniumutil - INFO - 清除文本框内容
+2018-05-22 19:39:50,130 - seleniumutil - INFO - 在<selenium.webdriver.remote.webelement.WebElement (session="0170b11ffa317a110ad1c2dcdb90ab11", element="0.13689252255379758-2")>文本框输入password
+2018-05-22 19:39:55,833 - seleniumutil - ERROR - 没有找到元素

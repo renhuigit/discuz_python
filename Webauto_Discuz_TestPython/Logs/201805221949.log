@@ -1,0 +1,11 @@
+2018-05-22 19:49:17,574 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 19:49:17,574 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 19:49:45,618 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 19:49:45,618 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 19:49:52,129 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:49:52,219 - seleniumutil - INFO - 在文本框输入admin
+2018-05-22 19:49:52,275 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:49:52,356 - seleniumutil - INFO - 在文本框输入password
+2018-05-22 19:49:52,437 - seleniumutil - INFO - 成功点击元素
+2018-05-22 19:49:59,201 - seleniumutil - INFO - 成功点击元素
+2018-05-22 19:50:02,285 - BasicTestCase - INFO - 退出浏览器

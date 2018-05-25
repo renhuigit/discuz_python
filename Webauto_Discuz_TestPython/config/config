@@ -1,0 +1,8 @@
+[browserType]
+#browserName = Firefox
+browserName = chrome
+#browserName = IE
+
+[testServer]
+URL = http://127.0.0.1:8086/bbs/forum.php
+#URL = http://127.0.0.1:8086/bbs/forum.php

@@ -1,0 +1,25 @@
+2018-05-23 17:40:11,779 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 17:40:11,779 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 17:40:14,346 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.3659955895986251-1")>
+2018-05-23 17:40:14,385 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:40:14,395 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.3659955895986251-1")>
+2018-05-23 17:40:14,517 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 17:40:14,540 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.3659955895986251-2")>
+2018-05-23 17:40:14,584 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:40:14,594 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.3659955895986251-2")>
+2018-05-23 17:40:14,683 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 17:40:14,710 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.3659955895986251-3")>
+2018-05-23 17:40:14,784 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:40:20,446 - seleniumutil - INFO - 通过id查找元素：id=>extcreditmenu<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.06943548617328354-1")>
+2018-05-23 17:40:22,505 - seleniumutil - INFO - 通过id查找元素：id=>scbar_txt<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.06943548617328354-2")>
+2018-05-23 17:40:22,543 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:40:22,554 - seleniumutil - INFO - 通过id查找元素：id=>scbar_txt<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.06943548617328354-2")>
+2018-05-23 17:40:22,682 - seleniumutil - INFO - 在文本框输入selenium+java
+2018-05-23 17:40:22,707 - seleniumutil - INFO - 通过id查找元素：id=>scbar_btn<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.06943548617328354-3")>
+2018-05-23 17:40:22,809 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:40:25,069 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为搜索 - Discuz! Board - Powered by Discuz!
+2018-05-23 17:40:25,095 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//h3/a<selenium.webdriver.remote.webelement.WebElement (session="91f36945f9847a92859d5c8cb4c5e199", element="0.7239723723491598-1")>
+2018-05-23 17:40:25,199 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:40:26,830 - seleniumutil - INFO - 成功切换窗口，当前窗口标题为selenium+java - 北京 - Discuz! Board - Powered by Discuz!
+2018-05-23 17:40:26,858 - seleniumutil - ERROR - 查找到一组元素失败
+2018-05-23 17:40:26,858 - BasicTestCase - INFO - 退出浏览器

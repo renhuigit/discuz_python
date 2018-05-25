@@ -1,0 +1,54 @@
+2018-05-25 15:07:10,035 - BasicTestCase - INFO - 你选择了 chrome 浏览器.
+2018-05-25 15:07:10,051 - BasicTestCase - INFO - 测试的URL是: http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 15:07:16,364 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-25 15:07:16,364 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 15:07:32,348 - BasicTestCase - INFO - 退出浏览器
+2018-05-25 15:07:52,856 - BasicTestCase - INFO - 你选择了 chrome 浏览器.
+2018-05-25 15:07:52,856 - BasicTestCase - INFO - 测试的URL是: http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 15:07:57,706 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-25 15:07:57,706 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 15:08:00,574 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-25 15:08:00,620 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 15:08:00,620 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-25 15:08:00,736 - seleniumutil - INFO - 在文本框输入test
+2018-05-25 15:08:00,774 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-25 15:08:00,861 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 15:08:00,861 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-25 15:08:00,942 - seleniumutil - INFO - 在文本框输入test
+2018-05-25 15:08:00,970 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button
+2018-05-25 15:08:01,050 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:06,686 - seleniumutil - INFO - 通过id查找元素： id=>extcreditmenu
+2018-05-25 15:08:06,846 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//td/a/img长度为：48
+2018-05-25 15:08:08,338 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="ct"]/div/div[1]/div/h1/span/strong[2]
+2018-05-25 15:08:08,393 - seleniumutil - INFO - 通过id查找元素： id=>newspecial
+2018-05-25 15:08:09,868 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:09,920 - seleniumutil - INFO - 通过linktext查找元素： linktext=>发起投票
+2018-05-25 15:08:11,388 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:11,418 - seleniumutil - INFO - 通过id查找元素： id=>subject
+2018-05-25 15:08:11,464 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 15:08:11,464 - seleniumutil - INFO - 通过id查找元素： id=>subject
+2018-05-25 15:08:11,619 - seleniumutil - INFO - 在文本框输入网综节目投票
+2018-05-25 15:08:11,656 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//p/input[@name="polloption[]"]长度为：4
+2018-05-25 15:08:11,985 - seleniumutil - INFO - 成功切换iframe，切换的frameID为e_iframe
+2018-05-25 15:08:12,006 - seleniumutil - INFO - 通过xpath查找元素： xpath=>/html/body
+2018-05-25 15:08:12,038 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 15:08:12,038 - seleniumutil - INFO - 通过xpath查找元素： xpath=>/html/body
+2018-05-25 15:08:12,218 - seleniumutil - INFO - 在文本框输入投票内容：这就是街舞，热血街舞团，创造101
+2018-05-25 15:08:12,221 - seleniumutil - INFO - 跳出iframe，进入主文档
+2018-05-25 15:08:12,258 - seleniumutil - INFO - 通过id查找元素： id=>postsubmit
+2018-05-25 15:08:12,433 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:16,466 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="pt"]/div/a[4]
+2018-05-25 15:08:17,824 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:17,857 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="ct"]/div/div[1]/div/h1/span/strong[2]
+2018-05-25 15:08:17,943 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@class='s xst']
+2018-05-25 15:08:19,472 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:19,522 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//td[@class="pslt"]/input长度为：3
+2018-05-25 15:08:19,622 - seleniumutil - INFO - 通过id查找元素： id=>pollsubmit
+2018-05-25 15:08:22,470 - seleniumutil - INFO - 成功点击元素
+2018-05-25 15:08:23,884 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="poll"]/div[2]/table/tbody/tr[7]/td
+2018-05-25 15:08:23,939 - seleniumutil - INFO - 通过id查找元素： id=>thread_subject
+2018-05-25 15:08:23,960 - seleniumutil - INFO - 获取文本内容网综节目投票
+2018-05-25 15:08:23,960 - seleniumutil - INFO - 通过id查找元素： id=>thread_subject
+2018-05-25 15:08:24,022 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//table[@summary="poll panel"]/tbody/tr/td[2]长度为：6
+2018-05-25 15:08:24,171 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//table/tbody/tr/td[@class="pvt"]长度为：3
+2018-05-25 15:08:27,370 - BasicTestCase - INFO - 退出浏览器

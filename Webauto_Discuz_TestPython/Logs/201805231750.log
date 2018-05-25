@@ -1,0 +1,47 @@
+2018-05-23 17:50:57,235 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 17:50:57,235 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 17:50:59,741 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.05477437788771922-1")>
+2018-05-23 17:50:59,779 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:50:59,788 - seleniumutil - INFO - 通过id查找元素：id=>ls_username<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.05477437788771922-1")>
+2018-05-23 17:50:59,873 - seleniumutil - INFO - 在文本框输入test
+2018-05-23 17:50:59,898 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.05477437788771922-2")>
+2018-05-23 17:50:59,936 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:50:59,946 - seleniumutil - INFO - 通过id查找元素：id=>ls_password<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.05477437788771922-2")>
+2018-05-23 17:51:00,022 - seleniumutil - INFO - 在文本框输入test
+2018-05-23 17:51:00,049 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.05477437788771922-3")>
+2018-05-23 17:51:00,121 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:05,478 - seleniumutil - INFO - 通过id查找元素：id=>extcreditmenu<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.8690804077825784-1")>
+2018-05-23 17:51:06,538 - seleniumutil - INFO - 通过xpath查找到一组元素xpath=>//td/a/img长度为：45
+2018-05-23 17:51:07,960 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id="ct"]/div/div[1]/div/h1/span/strong[2]<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.5978245730802398-1")>
+2018-05-23 17:51:08,011 - seleniumutil - INFO - 通过id查找元素：id=>newspecial<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.5978245730802398-2")>
+2018-05-23 17:51:09,378 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:11,416 - seleniumutil - INFO - 通过linktext查找元素：linktext=>发起投票<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.7946832180874375-1")>
+2018-05-23 17:51:12,808 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:12,838 - seleniumutil - INFO - 通过id查找元素：id=>subject<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.17127619695303453-1")>
+2018-05-23 17:51:12,883 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:51:12,890 - seleniumutil - INFO - 通过id查找元素：id=>subject<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.17127619695303453-1")>
+2018-05-23 17:51:13,023 - seleniumutil - INFO - 在文本框输入网综节目投票
+2018-05-23 17:51:13,048 - seleniumutil - INFO - 通过xpath查找到一组元素xpath=>//p/input[@name="polloption[]"]长度为：4
+2018-05-23 17:51:15,337 - seleniumutil - INFO - 成功切换iframe，切换的frameID为e_iframe
+2018-05-23 17:51:17,360 - seleniumutil - INFO - 通过xpath查找元素：xpath=>/html/body<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.46834181742052094-1")>
+2018-05-23 17:51:17,391 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 17:51:17,398 - seleniumutil - INFO - 通过xpath查找元素：xpath=>/html/body<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.46834181742052094-1")>
+2018-05-23 17:51:17,551 - seleniumutil - INFO - 在文本框输入投票内容：这就是街舞，热血街舞团，101
+2018-05-23 17:51:17,555 - seleniumutil - INFO - 跳出iframe，进入主文档
+2018-05-23 17:51:17,580 - seleniumutil - INFO - 通过id查找元素：id=>postsubmit<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.17127619695303453-7")>
+2018-05-23 17:51:17,716 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:21,719 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id="pt"]/div/a[4]<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.8052655939665778-1")>
+2018-05-23 17:51:22,992 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:23,028 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id="ct"]/div/div[1]/div/h1/span/strong[2]<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.02491438601788598-1")>
+2018-05-23 17:51:23,084 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@class='s xst']<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.02491438601788598-2")>
+2018-05-23 17:51:24,516 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:24,540 - seleniumutil - INFO - 通过xpath查找到一组元素xpath=>//td[@class="pslt"]/input长度为：3
+2018-05-23 17:51:24,641 - seleniumutil - INFO - 通过id查找元素：id=>pollsubmit<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.4058623831664856-4")>
+2018-05-23 17:51:27,537 - seleniumutil - INFO - 成功点击元素
+2018-05-23 17:51:28,943 - seleniumutil - INFO - 通过xpath查找元素：xpath=>//*[@id="poll"]/div[2]/table/tbody/tr[7]/td<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.9952627930015163-1")>
+2018-05-23 17:51:28,995 - seleniumutil - INFO - 通过id查找元素：id=>thread_subject<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.9952627930015163-2")>
+2018-05-23 17:51:29,025 - seleniumutil - INFO - 获取文本内容网综节目投票
+2018-05-23 17:51:29,033 - seleniumutil - INFO - 通过id查找元素：id=>thread_subject<selenium.webdriver.remote.webelement.WebElement (session="d23424f7fa75a35017ecdd0cb911b8d5", element="0.9952627930015163-2")>
+2018-05-23 17:51:29,069 - seleniumutil - INFO - 通过xpath查找到一组元素xpath=>//table[@summary="poll panel"]/tbody/tr/td[2]长度为：6
+2018-05-23 17:51:29,173 - seleniumutil - INFO - 通过xpath查找到一组元素xpath=>//table/tbody/tr/td[@class="pvt"]长度为：3
+2018-05-23 17:51:29,264 - BasicTestCase - INFO - 退出浏览器

@@ -1,0 +1,8 @@
+2018-05-22 19:44:08,129 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-22 19:44:08,316 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-22 19:44:15,651 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:44:15,755 - seleniumutil - INFO - 在文本框输入admin
+2018-05-22 19:44:15,815 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-22 19:44:15,896 - seleniumutil - INFO - 在文本框输入password
+2018-05-22 19:44:15,978 - seleniumutil - INFO - 成功点击元素
+2018-05-22 19:44:23,082 - seleniumutil - INFO - 成功点击元素

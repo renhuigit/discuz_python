@@ -1,0 +1,19 @@
+2018-05-23 12:11:41,896 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 12:11:41,896 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 12:11:44,351 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.10447591998105232-1")>
+2018-05-23 12:11:44,388 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 12:11:44,398 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.10447591998105232-1")>
+2018-05-23 12:11:44,482 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 12:11:44,505 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.10447591998105232-2")>
+2018-05-23 12:11:44,544 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 12:11:44,557 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.10447591998105232-2")>
+2018-05-23 12:11:44,661 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 12:11:44,690 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.10447591998105232-3")>
+2018-05-23 12:11:44,756 - seleniumutil - INFO - 成功点击元素
+2018-05-23 12:11:50,290 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.021372065148672625-1")>
+2018-05-23 12:11:52,362 - seleniumutil - INFO - 通过linktext查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.021372065148672625-2")>
+2018-05-23 12:11:53,793 - seleniumutil - INFO - 成功点击元素
+2018-05-23 12:11:53,816 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.09142287231395652-1")>
+2018-05-23 12:11:53,868 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="9aa8f8416d7f294e7facc5976f8bb334", element="0.09142287231395652-2")>
+2018-05-23 12:11:53,901 - seleniumutil - ERROR - 没有找到元素
+2018-05-23 12:11:56,969 - BasicTestCase - INFO - 退出浏览器

@@ -1,0 +1,19 @@
+2018-05-23 12:10:22,648 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 12:10:22,648 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 12:10:25,100 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.0893844224061009-1")>
+2018-05-23 12:10:25,138 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 12:10:25,147 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.0893844224061009-1")>
+2018-05-23 12:10:25,236 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 12:10:25,261 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.0893844224061009-2")>
+2018-05-23 12:10:25,298 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 12:10:25,310 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.0893844224061009-2")>
+2018-05-23 12:10:25,408 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 12:10:25,446 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.0893844224061009-3")>
+2018-05-23 12:10:25,551 - seleniumutil - INFO - 成功点击元素
+2018-05-23 12:10:31,146 - seleniumutil - INFO - 通过id查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.2509490306384399-1")>
+2018-05-23 12:10:33,224 - seleniumutil - INFO - 通过linktext查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.2509490306384399-2")>
+2018-05-23 12:10:34,575 - seleniumutil - INFO - 成功点击元素
+2018-05-23 12:10:34,576 - seleniumutil - INFO - 通过xpath查找到一组元素
+2018-05-23 12:10:34,664 - seleniumutil - INFO - 通过xpath查找元素：<selenium.webdriver.remote.webelement.WebElement (session="66a61dd619c79d615ca8057c05c65a2d", element="0.9489876634941912-2")>
+2018-05-23 12:10:34,716 - seleniumutil - ERROR - 没有找到元素
+2018-05-23 12:10:37,780 - BasicTestCase - INFO - 退出浏览器

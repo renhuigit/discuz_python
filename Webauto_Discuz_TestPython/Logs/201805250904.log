@@ -1,0 +1,39 @@
+2018-05-25 09:04:56,214 - BasicTestCase - INFO - 你选择了 chrome 浏览器.
+2018-05-25 09:04:56,214 - BasicTestCase - INFO - 测试的URL是: http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 09:05:01,011 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-25 09:05:01,011 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-25 09:05:03,822 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-25 09:05:03,860 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 09:05:03,860 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-25 09:05:03,954 - seleniumutil - INFO - 在文本框输入admin
+2018-05-25 09:05:03,982 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-25 09:05:04,021 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 09:05:04,021 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-25 09:05:04,118 - seleniumutil - INFO - 在文本框输入password
+2018-05-25 09:05:04,145 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button
+2018-05-25 09:05:04,222 - seleniumutil - INFO - 成功点击元素
+2018-05-25 09:05:09,818 - seleniumutil - INFO - 通过id查找元素： id=>extcreditmenu
+2018-05-25 09:05:09,904 - seleniumutil - INFO - 通过linktext查找元素： linktext=>默认版块
+2018-05-25 09:05:11,389 - seleniumutil - INFO - 成功点击元素
+2018-05-25 09:05:11,412 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="ct"]/div/div[1]/div/h1/span/strong[2]
+2018-05-25 09:05:11,465 - seleniumutil - INFO - 通过id查找元素： id=>subject
+2018-05-25 09:05:11,509 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 09:05:11,509 - seleniumutil - INFO - 通过id查找元素： id=>subject
+2018-05-25 09:05:11,712 - seleniumutil - INFO - 在文本框输入title:title
+2018-05-25 09:05:11,735 - seleniumutil - INFO - 通过id查找元素： id=>fastpostmessage
+2018-05-25 09:05:11,792 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 09:05:11,792 - seleniumutil - INFO - 通过id查找元素： id=>fastpostmessage
+2018-05-25 09:05:11,973 - seleniumutil - INFO - 在文本框输入content:content
+2018-05-25 09:05:11,999 - seleniumutil - INFO - 通过id查找元素： id=>fastpostsubmit
+2018-05-25 09:05:15,232 - seleniumutil - INFO - 成功点击元素
+2018-05-25 09:05:15,255 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id="pt"]/div/a[4]
+2018-05-25 09:05:16,586 - seleniumutil - INFO - 成功点击元素
+2018-05-25 09:05:16,639 - seleniumutil - INFO - 通过xpath查找到一组元素:  xpath=>//tr/td[4]/a长度为：20
+2018-05-25 09:05:16,691 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@class='s xst']
+2018-05-25 09:05:18,218 - seleniumutil - INFO - 成功点击元素
+2018-05-25 09:05:18,242 - seleniumutil - INFO - 通过name查找元素： name=>message
+2018-05-25 09:05:18,289 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-25 09:05:18,289 - seleniumutil - INFO - 通过name查找元素： name=>message
+2018-05-25 09:05:18,375 - seleniumutil - INFO - 在文本框输入回复内容
+2018-05-25 09:05:18,399 - seleniumutil - INFO - 通过id查找元素： id=>fastpostrefresh
+2018-05-25 09:05:21,580 - BasicTestCase - INFO - 退出浏览器

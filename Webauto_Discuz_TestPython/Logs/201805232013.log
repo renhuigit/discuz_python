@@ -1,0 +1,16 @@
+2018-05-23 20:13:35,172 - BasicTestCase - INFO - 你选择了 chrome 浏览器.
+2018-05-23 20:13:35,172 - BasicTestCase - INFO - 测试的URL是: http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 20:13:39,883 - seleniumutil - INFO - 开启谷歌浏览器
+2018-05-23 20:13:39,883 - seleniumutil - INFO - 打开网址：http://127.0.0.1:8086/bbs/forum.php
+2018-05-23 20:13:43,116 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-23 20:13:43,156 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 20:13:43,156 - seleniumutil - INFO - 通过id查找元素： id=>ls_username
+2018-05-23 20:13:43,250 - seleniumutil - INFO - 在文本框输入admin
+2018-05-23 20:13:43,277 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-23 20:13:43,317 - seleniumutil - INFO - 成功清除文本框内容
+2018-05-23 20:13:43,317 - seleniumutil - INFO - 通过id查找元素： id=>ls_password
+2018-05-23 20:13:43,415 - seleniumutil - INFO - 在文本框输入password
+2018-05-23 20:13:43,444 - seleniumutil - INFO - 通过xpath查找元素： xpath=>//*[@id='lsform']/div/div/table/tbody/tr[2]/td[3]/button
+2018-05-23 20:13:43,512 - seleniumutil - INFO - 成功点击元素
+2018-05-23 20:13:49,046 - seleniumutil - INFO - 通过id查找元素： id=>extcreditmenu
+2018-05-23 20:13:52,160 - BasicTestCase - INFO - 退出浏览器
