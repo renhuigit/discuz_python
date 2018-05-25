@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from testcase.BasicTestCase import BasicTestCase
 from HelperPage.Helper_Login import Helper_login
 from HelperPage.Helper_Logout import Helper_Logout
